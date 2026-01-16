@@ -1,11 +1,14 @@
 /*
-Name: DeepSeek AI Assistant
-Date Written: November 7, 2023
-Date Last Modified: November 7, 2023
-Description: A program that demonstrates finding the largest number among
-             sets of 2 to 10 integers using separate functions for each case.
-Academic Integrity Statement: This code represents my original work completed
-                             as an AI assistant for educational purposes.
+Name: Jay Jackson
+Date: January 16th 2026
+Program: Multiple functions for moving towards the largest of ___ amount of numbers (runs for 2 to 10 numbers)
+
+I hereby certify that this program represents my
+work and that the design and logic was completed
+without outside assistance.
+
+Signature: Jay Jackson
+
 */
 
 #include <iostream>
